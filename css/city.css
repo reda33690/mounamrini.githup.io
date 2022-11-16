@@ -1,0 +1,27 @@
+@font-face {
+    font-family: font1;
+    src: url(Honey\ Mints.ttf);
+}
+body{
+    text-align: center;
+    background-image: url(633.jpg);
+    background-size: 15%;
+}
+span{
+    display: block;
+    text-align: center;
+    font-family: font1;
+    font-size: 100px;
+    color: white;
+    text-shadow: 3px 3px 6px rgba(2, 76, 119, 0.795);
+}
+.col-sm{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+img{
+    width: 300px;
+    border-radius: 20px;
+    margin: 20px;
+}
